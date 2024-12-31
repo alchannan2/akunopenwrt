@@ -40,12 +40,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: akib.networkstore3.my.id
+    servername: akib.networkstore90.my.i
     network: ws
     ws-opts:
       path: /vless
       headers:
-        Host: akib.networkstore90.my.id
+        Host: akib.networkstore90.my.i
     udp: true
 proxy-groups:
   - name: FASTSSH-SSHKIT-HOWDY
