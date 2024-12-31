@@ -45,7 +45,7 @@ proxies:
     ws-opts:
       path: /vless
       headers:
-        Host: akib.networkstore3.my.id
+        Host: akib.networkstore90.my.id
     udp: true
 proxy-groups:
   - name: FASTSSH-SSHKIT-HOWDY
